@@ -63,7 +63,7 @@ Installez les bibliothèques suivantes si vous utilisez les scripts Python pour 
 1. Ouvrez votre terminal ou invite de commandes.
 2. Clonez le dépôt avec la commande suivante :
    ```bash
-   git clone https://github.com/Walidnsr/Quick-Qcm.git
+   git clone https://github.com/i123z/QuickQCM.git
    ```
    Le projet sera cloné sous le nom `Quick-Qcm`.
 
